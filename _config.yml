@@ -1,7 +1,7 @@
 # (string) Title of your wiki
-title: 
+title: Character.AI Research/Findings wiki, sorta
 # (string) Description of your wiki
-description: 
+description: A one-man wiki about said mans findings.
 # (boolean) disable edit functionalities (edit/delete/add pages)
 disable_edit: false
 # (boolean) Enable/disable wiki page list in sidebar
