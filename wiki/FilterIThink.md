@@ -6,4 +6,4 @@ published: true
 
 As far as I know, and from messing around with the Tamper Chrome extension, I think the filter works via "candidates" (because the URL parameter "filter_candidates" exists (put &filter_candidates=false or true at the end of the url, it wont do anything OTHER than display text on a corner of the screen) and that the response from the server on a filter error says "No eligible candidates")
 
-The "No eligible candidates" response can be seen here: ![FilterErrorServerResponse.png]({{site.baseurl}}/wiki/FilterErrorServerResponse.png)
+The "No eligible candidates" response can be seen here:https://raw.githubusercontent.com/ImNotSimon/CHAiResearchWikiIGuess/master/wiki/FilterErrorServerResponse.png  ![FilterErrorServerResponse.png]({{site.baseurl}}/wiki/FilterErrorServerResponse.png)
